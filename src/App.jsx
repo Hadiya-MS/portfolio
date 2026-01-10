@@ -81,8 +81,8 @@ function App() {
       {/* Contact */}
       <section id="contact" className="section contact">
         <h2>Contact</h2>
-        <p>Email: hadiya@example.com</p>
-        <p>GitHub: github.com/hadiya</p>
+        <p>Email: hadiyashereef@gmail.com</p>
+        <p>GitHub:https://github.com/</p>
       </section>
 
       {/* Footer */}
